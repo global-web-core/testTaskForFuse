@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testTaskForFuse/static/css/main.f7ed7569.css",
+    "main.js": "/testTaskForFuse/static/js/main.5ac7b00f.js",
+    "index.html": "/testTaskForFuse/index.html",
+    "main.f7ed7569.css.map": "/testTaskForFuse/static/css/main.f7ed7569.css.map",
+    "main.5ac7b00f.js.map": "/testTaskForFuse/static/js/main.5ac7b00f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7ed7569.css",
+    "static/js/main.5ac7b00f.js"
+  ]
+}
